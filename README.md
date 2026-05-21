@@ -35,10 +35,9 @@ Acredito que para defender um sistema, é preciso saber como ele é construído.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/marcelo-vinicius-de-moraes-filho-9b8741410/)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-vinicius-de-moraes-filho-9b8741410/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloViniciusMF)
 
 ---
-*“A segurança é um processo, não um produto.”*
